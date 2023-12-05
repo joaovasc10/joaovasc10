@@ -6,7 +6,7 @@
 - 💻 Atualmente sou bolsista de Desenvolvimento Web na Divisão de Desenvolvimento de Software do <a href="https://www.ufrgs.br/cpd/">Centro de Processamento de Dados da UFRGS</a>
 - ⏳ Desenvolvedor FullStack em construção
 
-### Estou aprendendo
+### Tecnologias utilizadas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original-wordmark.svg" width="40" height="40"/>
           
           
