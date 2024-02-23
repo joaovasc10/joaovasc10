@@ -1,8 +1,8 @@
 ## Olá, me chamo João Vasconcelos 👋
 
+- 🎓 Formado como Técnico em Automação Industrial pelo <a href="http://www.camaqua.ifsul.edu.br/">IFSul Campus Camaquã</a>
 - 📚 Cursei Engenharia de Controle e Automação na <a href="https://www.ufrgs.br/">UFRGS</a> (2018/1 - 2022/2)
 - 📚 Cursando atualmente Ciência da Computação na <a href="https://www.ufrgs.br/">UFRGS</a>
-- 🎓 Formado como Técnico em Automação Industrial pelo <a href="http://www.camaqua.ifsul.edu.br/">IFSul Campus Camaquã</a>
 - 💻 Atualmente sou bolsista de Desenvolvimento Web na Divisão de Desenvolvimento de Software do <a href="https://www.ufrgs.br/cpd/">Centro de Processamento de Dados da UFRGS</a>
 - ⏳ Desenvolvedor FullStack
 
