@@ -3,8 +3,7 @@
 ### About me
 - 🎓 Formação em Técnico em Automação Industrial pelo <a href="http://www.camaqua.ifsul.edu.br/">IFSul Campus Camaquã</a>
 - 📚 Cursando atualmente bacharelado em <a href="https://www.inf.ufrgs.br/site/graduacao/ciencia-da-computacao/">Ciência da Computação</a> na <a href="https://www.ufrgs.br/">UFRGS</a>
-- 💻 Atualmente sou bolsista de Desenvolvimento Web na Divisão de Desenvolvimento de Software do <a href="https://www.ufrgs.br/cpd/">Centro de Processamento de Dados da UFRGS</a>
-- 👨‍💻  Desenvolvedor FullStack
+- 👨‍💻  Desenvolvedor FullStack no <a href="https://www.instagram.com/ospa.place/">PLACE</a>
 
 
 ### Stacks 🛠
